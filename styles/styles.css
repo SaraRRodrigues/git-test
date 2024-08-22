@@ -21,7 +21,7 @@ img {
     text-align: center;
     background-color: hsl(0, 0%, 100%);
     padding-top: 16px;
-    border-radius: 10px;
+    border-radius: 20px;
 }
 
 .text-box {
@@ -31,6 +31,7 @@ img {
 .info-text {
     font-weight: 700;
     font-size: 22px;
+    color: hsl(218, 44%, 22%);
 }
 
 .user-text {
